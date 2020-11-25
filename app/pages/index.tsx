@@ -36,12 +36,12 @@ const UserInfo = () => {
       <>
         <Link href="/signup">
           <a className="button small">
-            <strong>Sign Up</strong>
+            <strong>REGISTRARSE</strong>
           </a>
         </Link>
         <Link href="/login">
           <a className="button small">
-            <strong>Login</strong>
+            <strong>INGRESAR</strong>
           </a>
         </Link>
       </>
